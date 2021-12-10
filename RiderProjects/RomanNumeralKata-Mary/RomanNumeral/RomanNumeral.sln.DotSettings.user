@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=41161822_002D8c7e_002D41d6_002Da509_002D79232333395a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckConversionOfIntOneToTheSymbolI #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DE68892E-958A-49F9-99E5-E95D5C942615::net5.0::RomanNumeral.Test.UnitTest1.CheckConversionOfIntOneToTheSymbolI&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53cbcb99_002D1896_002D47f6_002Dbfe9_002D7437a8a26170/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckConversionOfIntOneToTheSymbolI" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DE68892E-958A-49F9-99E5-E95D5C942615::net5.0::RomanNumeral.Test.UnitTest1.CheckConversionOfIntOneToTheSymbolI&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

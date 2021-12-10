@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Mary.Lotoa/.dotnet/store/|arch|/|tfm|",
+      "/Users/Mary.Lotoa/.nuget/packages"
+    ]
+  }
+}
